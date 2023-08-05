@@ -1,9 +1,7 @@
 # News-Website
 
 
-
-
-#Description
+*Description
 MyNews is a dynamic news website that fetches real-time news articles using a News API and presents them in a user-friendly and aesthetically pleasing manner. The website is built using HTML, CSS, and JavaScript, making it a lightweight and responsive platform for users to stay up-to-date with the latest news from various sources.
 
 #Features
